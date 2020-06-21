@@ -3,3 +3,19 @@
 body {
 	background-color: palevioletred;
 }
+
+nav {
+	float: left;
+	width: 30%;
+	background-color: antiquewhite;
+}
+main {
+	float: left;
+	width: 50%;
+	background-color: aquamarine;
+}
+aside {
+	float: left;
+	width: 20%;
+	background-color: black;
+}
